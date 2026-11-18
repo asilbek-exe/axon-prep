@@ -1,0 +1,478 @@
+[
+  {
+    "text": "Tell me about yourself.",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Walk me through your resume.",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What are you studying and why?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Why did you choose Computer Science and Business?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What initially interested you in software engineering?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Why are you looking for an internship?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What do you want to learn during your internship?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Why Axon?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Why Axon rather than another technology company?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What interests you about Axon's mission?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Which Axon product interests you most?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "How did your AfroTech meeting influence your interest?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What are your long-term career interests?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "Why would you be a good fit for Axon?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What distinguishes you from other candidates?",
+    "category": "Introduction and motivation"
+  },
+  {
+    "text": "What does Axon do?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What problems does Axon solve?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What is Axon's mission?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What do you know about Axon Body 5?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What interests you about intelligent body-worn cameras?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "How does Axon combine hardware and software?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What is Axon Draft One?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What are the benefits and risks of AI in public safety?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "How might AI improve workflows for first responders?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "Why is reliability particularly important for Axon's software?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "How would you think about privacy and accountability when developing public safety software?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "What Axon product would you most like to work on, and why?",
+    "category": "Company knowledge"
+  },
+  {
+    "text": "Which Axon value resonates with you most?",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you demonstrated ownership.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you did the right thing even when it was difficult.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you worked closely with a team.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you received direct criticism.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you had to communicate uncomfortable feedback.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you took a calculated risk.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you thought beyond immediate requirements.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you prioritized the end user.",
+    "category": "Axon values"
+  },
+  {
+    "text": "Tell me about a time you completed something difficult without being told exactly how.",
+    "category": "Axon values"
+  },
+  {
+    "text": "What do you do as Lead Software Engineer?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How did you become a team lead?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How do you coordinate work among five engineers?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "Tell me about a difficult production bug.",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "Tell me about a feature you owned end to end.",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "What have you done to improve reliability?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How did you implement authentication?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How did you approach the equipment-reservation scheduler?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How do you prioritize feature work?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "Tell me about an engineering tradeoff.",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How do you ensure quality before deployment?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "How do you handle disagreement on technical decisions?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "What was the most impactful improvement you made?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "Tell me about a time you had to debug an unfamiliar system.",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "What would you improve in LASSO today?",
+    "category": "University IT and leadership"
+  },
+  {
+    "text": "Tell me about ShakeUR.",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What problem were you trying to solve?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What was your specific contribution?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "How did the Raspberry Pi communicate with the backend?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What role did FastAPI play?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "Why did you use computer vision?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What were the biggest technical challenges?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "How did you reduce latency?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What hardware limitations did you encounter?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What did you learn about integrating hardware and software?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "How did your team divide responsibilities?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "How did you test the complete system?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What would you improve with more time?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "How does this project relate to Axon?",
+    "category": "ShakeUR and hardware/software engineering"
+  },
+  {
+    "text": "What is your AI agent security research about?",
+    "category": "Research and security"
+  },
+  {
+    "text": "Why is AI agent security important?",
+    "category": "Research and security"
+  },
+  {
+    "text": "What is eBPF?",
+    "category": "Research and security"
+  },
+  {
+    "text": "Why did you choose eBPF for monitoring?",
+    "category": "Research and security"
+  },
+  {
+    "text": "What are cgroups?",
+    "category": "Research and security"
+  },
+  {
+    "text": "How do you monitor process behavior?",
+    "category": "Research and security"
+  },
+  {
+    "text": "How do you identify suspicious activity?",
+    "category": "Research and security"
+  },
+  {
+    "text": "How did you evaluate your detection system?",
+    "category": "Research and security"
+  },
+  {
+    "text": "What were the limitations of the experiments?",
+    "category": "Research and security"
+  },
+  {
+    "text": "How could AI systems be misused?",
+    "category": "Research and security"
+  },
+  {
+    "text": "What did you learn about Linux?",
+    "category": "Research and security"
+  },
+  {
+    "text": "How does this research connect to responsible AI?",
+    "category": "Research and security"
+  },
+  {
+    "text": "How does this work relate to Axon's mission?",
+    "category": "Research and security"
+  },
+  {
+    "text": "Tell me about a failure.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you made a mistake.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a conflict with a teammate.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you changed your mind.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you had incomplete information.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you were under pressure.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you learned something quickly.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you took initiative.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you had to explain something technical to a nontechnical person.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you received difficult feedback.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a time you helped someone else succeed.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "Tell me about a difficult decision involving quality or deadlines.",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "What are your strengths?",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "What is an area you're working to improve?",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "How do you handle competing priorities?",
+    "category": "Behavioral and teamwork"
+  },
+  {
+    "text": "How do you approach an unfamiliar coding problem?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "What questions do you ask before implementation?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you choose data structures?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you test code?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you debug an intermittent issue?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you think about system scalability?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "What makes code maintainable?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you approach code reviews?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "When would you refactor working code?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you use AI coding tools responsibly?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How do you verify AI-generated code?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "Tell me about a situation where AI-generated code was incorrect.",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How would you design software communicating with a physical device?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "What matters when building latency-sensitive systems?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "How would you handle failures in a distributed system?",
+    "category": "Technical thinking and engineering judgment"
+  },
+  {
+    "text": "Are you available during Summer 2027?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Which location do you prefer?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Are you willing to relocate?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Are you legally authorized to work in the United States?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Would you require employment sponsorship now or in the future?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Are you interviewing with other companies?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Do you have any deadlines?",
+    "category": "Logistics"
+  },
+  {
+    "text": "What is your expected internship compensation?",
+    "category": "Logistics"
+  },
+  {
+    "text": "When could you begin?",
+    "category": "Logistics"
+  },
+  {
+    "text": "Are you comfortable collaborating with trade compliance on export-control requirements?",
+    "category": "Logistics"
+  }
+]
